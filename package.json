@@ -23,7 +23,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arthurfranca/base16-darker-special-italic-syntax.git"
+    "url": "https://github.com/arthurfranca/base16-darker-special-italic-syntax.git"
   },
-  "version": "0.9.0"
+  "version": "0.10.0"
 }
